@@ -1,1 +1,1 @@
-Course registration Website (PHP)
+Course registration Website (PHP & My SQL)
