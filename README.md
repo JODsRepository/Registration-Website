@@ -1,1 +1,1 @@
-# Manav
+Course registration Website (PHP)
